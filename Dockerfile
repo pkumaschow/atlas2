@@ -1,4 +1,4 @@
-FROM node:8.1
+FROM node:8.16.2
 
 WORKDIR /usr/app
 EXPOSE 6001
